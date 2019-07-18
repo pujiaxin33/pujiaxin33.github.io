@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>金字塔程序员</title>
   
-  
+  <subtitle>陪你打怪升级，和你一起成长！</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-12-17T06:24:16.121Z</updated>
+  <updated>2019-07-18T01:29:56.559Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,65 +17,25 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>测试资源文章</title>
-    <link href="http://yoursite.com/2018/12/17/%E6%B5%8B%E8%AF%95%E8%B5%84%E6%BA%90%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2018/12/17/测试资源文章/</id>
-    <published>2018-12-17T06:22:20.000Z</published>
-    <updated>2018-12-17T06:24:16.121Z</updated>
+    <title>你好，金字塔程序员👩‍💻</title>
+    <link href="http://yoursite.com/2019/07/17/%E4%BD%A0%E5%A5%BD%EF%BC%8C%E9%87%91%E5%AD%97%E5%A1%94%E7%A8%8B%E5%BA%8F%E5%91%98%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB/"/>
+    <id>http://yoursite.com/2019/07/17/你好，金字塔程序员👩‍💻/</id>
+    <published>2019-07-17T15:31:33.000Z</published>
+    <updated>2019-07-18T01:29:56.559Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="测试图片"><a href="#测试图片" class="headerlink" title="测试图片"></a>测试图片</h1><img src="/2018/12/17/测试资源文章/lufei.jpg" title="This is an example image">]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h1 id=&quot;测试图片&quot;&gt;&lt;a href=&quot;#测试图片&quot; class=&quot;headerlink&quot; title=&quot;测试图片&quot;&gt;&lt;/a&gt;测试图片&lt;/h1&gt;&lt;img src=&quot;/2018/12/17/测试资源文章/lufei.jpg&quot; title=&quot;This is an example
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的测试博客</title>
-    <link href="http://yoursite.com/2018/12/17/%E6%88%91%E7%9A%84%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2018/12/17/我的测试博客/</id>
-    <published>2018-12-17T06:15:34.000Z</published>
-    <updated>2018-12-17T06:17:20.249Z</updated>
-    
-    <content type="html"><![CDATA[<h1 id="这是标题"><a href="#这是标题" class="headerlink" title="这是标题"></a>这是标题</h1><h2 id="这是副标题"><a href="#这是副标题" class="headerlink" title="这是副标题"></a>这是副标题</h2><blockquote><p>这是引用</p></blockquote><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">let string = &quot;hello world&quot;</span><br><span class="line">print(string)</span><br></pre></td></tr></table></figure><p><em>重点</em></p><ul><li>这是测试1</li><li>这是测试2</li><li>这是测试3</li></ul>]]></content>
+    <content type="html"><![CDATA[<h1 id="自我简介"><a href="#自我简介" class="headerlink" title="自我简介"></a>自我简介</h1><p>大家好，我的网名是“暴走的鑫鑫”。玩过游戏的人都知道能“暴走”的都是比较厉害的，所以我很喜欢暴走的感觉😎。我是一个比较有趣且神经质的人：初中的时候曾当着全班人的面，在讲台上对自己喜欢的女生大喊“xx，我喜欢你”（后面肯定搞到手了卅）。高中从班上倒数第二名一路逆袭到高考班上正数第10名，顺利考入一本学校（其实是高一沉迷游戏无心读书，还有为什么不是倒数第一名，因为倒数第一名是个玄幻小说迷，比我还要混！）。同时，我也是看电影也会落泪的柔情汉子（最受不了生离死别前的哭哭啼啼了）。我的一个座右铭是：“既然你是你，那就让你是你”，其实表达的一个意思：既然你投胎做人到这世上，不管这世间多恶多美，你都得做好自己，不要最后只剩一副臭皮囊，总的留点让人念想的东西。所以，我想做一个有血有肉、有思想有灵魂的人，喜欢与众不同，喜欢挑战。虽然，我现在已经是两个孩子的爹了，但是奶爸依然无敌！</p><h1 id="为什么创建金字塔程序员"><a href="#为什么创建金字塔程序员" class="headerlink" title="为什么创建金字塔程序员"></a>为什么创建金字塔程序员</h1><p>既然敢自立门户，写博客文章了，还是得有点技术背书（其实我的背书不咋地，纯属撑场面，大家轻轻喷就行，反正我脸皮也厚😂）。目前在Github开源了20多个仓库，累计获取5000+❤️。之前曾任职于咕咚（一个让你爱上跑步的APP），用户量1亿多，算是在大型APP开发中锻炼过。目前在一家创业公司，相信技术会改变世界。</p><p>我2014到现在做iOS开发已经有5年开发经验，回顾这五年，从一个技术菜鸟进阶到小公司技术leader，从只会用别人的第三方库到自己制作第三方库给别人用，算是有一个很大的进步了。在成长的过程中也踩过许多坑，走过许多弯路，也曾有绝望时刻希望有大牛附身解决疑难杂症。通过开源认识了许多朋友，他们会提出中肯的建议，不断优化代码。其中也有许多iOS新手，虽然提出的问题比较简单，但是对于问题的探究非常认真，像极了曾经的自己。通过开源我就加坚信帮助别人就是帮助自己。所以，我想通过金字塔程序员来分享我的成长经验，来帮助到初中级iOS开发。同时也是对自己下一个五年的挑战，希望自己能不断突破自己，扩宽自己的能力边界。</p><h1 id="为什么叫金字塔程序员"><a href="#为什么叫金字塔程序员" class="headerlink" title="为什么叫金字塔程序员"></a>为什么叫金字塔程序员</h1><p>成长的历程就像修建一座金字塔，只有不断夯实自己的基础能力，才能修建出更高的金字塔，才会看到更远更美的风景。<br>所以，我的是slogon是“陪你打怪升级，和你一起成长！”。希望和大家一起享受这个日新月异的世界和不断创新的技术（其实大家都学得很累，需要互相鼓励啊👨‍💻‍👨‍💻‍）。</p><ul><li>分享的内容范围：主要分享初中高三个阶段的iOS知识，还有其他我觉得有趣、有料的知识（只要能帮助大家成长的有正能量的都算在内）；</li><li>文章定位：短小精干。<ul><li>短：文章篇幅不会很长，几分钟就可以看完。太长的文章，我写的累，你看的也累，而且也不利于产出。</li><li>小：单篇文章涉及的内容范围比较小，不会一篇文章讲很多内容。（男人都怕被人说小，当我偏不怕😂）</li><li>精：原创文章内容都是经过验证、提炼过，写出来的都是精华。</li><li>干：干货满满的意思，绝对是有趣、有料的知识分享。</li></ul></li></ul><p>所以，准备好和我一起成长了吗？</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;这是标题&quot;&gt;&lt;a href=&quot;#这是标题&quot; class=&quot;headerlink&quot; title=&quot;这是标题&quot;&gt;&lt;/a&gt;这是标题&lt;/h1&gt;&lt;h2 id=&quot;这是副标题&quot;&gt;&lt;a href=&quot;#这是副标题&quot; class=&quot;headerlink&quot; title=&quot;这是副标题&quot;&gt;
+        &lt;h1 id=&quot;自我简介&quot;&gt;&lt;a href=&quot;#自我简介&quot; class=&quot;headerlink&quot; title=&quot;自我简介&quot;&gt;&lt;/a&gt;自我简介&lt;/h1&gt;&lt;p&gt;大家好，我的网名是“暴走的鑫鑫”。玩过游戏的人都知道能“暴走”的都是比较厉害的，所以我很喜欢暴走的感觉😎。我是一个比较有趣
       
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2018/12/17/hello-world/"/>
-    <id>http://yoursite.com/2018/12/17/hello-world/</id>
-    <published>2018-12-17T03:38:59.312Z</published>
-    <updated>2018-12-17T03:38:59.313Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-      
-    
-    </summary>
-    
+      <category term="感悟" scheme="http://yoursite.com/tags/%E6%84%9F%E6%82%9F/"/>
     
   </entry>
   
